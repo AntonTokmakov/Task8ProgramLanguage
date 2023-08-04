@@ -1,0 +1,15 @@
+/home/anton/Загрузки/GeekBrains/Example9/Task4/bin/Debug/net7.0/Task4
+/home/anton/Загрузки/GeekBrains/Example9/Task4/bin/Debug/net7.0/Task4.deps.json
+/home/anton/Загрузки/GeekBrains/Example9/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/home/anton/Загрузки/GeekBrains/Example9/Task4/bin/Debug/net7.0/Task4.dll
+/home/anton/Загрузки/GeekBrains/Example9/Task4/bin/Debug/net7.0/Task4.pdb
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.dll
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/refint/Task4.dll
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.pdb
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task4/obj/Debug/net7.0/ref/Task4.dll

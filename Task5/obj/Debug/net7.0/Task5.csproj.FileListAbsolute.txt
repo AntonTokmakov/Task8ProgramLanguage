@@ -1,0 +1,15 @@
+/home/anton/Загрузки/GeekBrains/Example9/Task5/bin/Debug/net7.0/Task5
+/home/anton/Загрузки/GeekBrains/Example9/Task5/bin/Debug/net7.0/Task5.deps.json
+/home/anton/Загрузки/GeekBrains/Example9/Task5/bin/Debug/net7.0/Task5.runtimeconfig.json
+/home/anton/Загрузки/GeekBrains/Example9/Task5/bin/Debug/net7.0/Task5.dll
+/home/anton/Загрузки/GeekBrains/Example9/Task5/bin/Debug/net7.0/Task5.pdb
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.csproj.AssemblyReference.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.AssemblyInfoInputs.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.AssemblyInfo.cs
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.csproj.CoreCompileInputs.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.dll
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/refint/Task5.dll
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.pdb
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/Task5.genruntimeconfig.cache
+/home/anton/Загрузки/GeekBrains/Example9/Task5/obj/Debug/net7.0/ref/Task5.dll
