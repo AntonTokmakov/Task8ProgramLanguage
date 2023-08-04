@@ -1,6 +1,6 @@
 ﻿//Сложение 2 матриц
 
-System.Console.WriteLine("Введите размер матриц");
+System.Console.WriteLine("Введите размер матриц через пробел");
 
 int[] sizeMas = Console.ReadLine().Trim().Split(" ").Select(x => int.Parse(x)).ToArray();
 

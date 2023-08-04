@@ -12,14 +12,6 @@ for (int i = 0; i < mas.GetLength(0); i++)
         for (int k = 0; k < mas.GetLength(2); k++)
         {
             int element = int.Parse(Console.ReadLine());
-            /*int elem = (element >= 10 || element <= 99) ? SuchElementMas(mas, element) : -1;
-            if (elem != -1) 
-                mas[i,j,k] = elem;
-            else 
-            {
-                System.Console.WriteLine("Число существует в массиве или некоректно");
-                k--;
-            }*/
             if (element >= 10 && element <= 99)
             {
                 if (SuchElementMas(mas, element) != -1)
@@ -67,7 +59,7 @@ void PrintMas(int[,,] mas)
         {
             for (int k = 0; k < mas.GetLength(2); k++)
             {
-                System.Console.Write($"{mas[i,j,k]}  ({i}, {j}, {k}) ");
+                System.Console.Write($"{mas[i,j,k]}  ({i}, {j}, {k}) \t");
             }
             System.Console.WriteLine();
         }

@@ -1,4 +1,4 @@
-﻿System.Console.WriteLine("Введите размер двумерного массива");
+﻿System.Console.WriteLine("Введите размер двумерного массива через пробел");
 
 int[] sizeMas = Console.ReadLine().Trim().Split(" ").Select(x => int.Parse(x)).ToArray();
 
